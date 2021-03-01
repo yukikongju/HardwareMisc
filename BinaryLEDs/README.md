@@ -8,6 +8,7 @@ Displaying the Binary Representation of an hexadecimal number
 
 1. Build a parallel circuits using LEDs
 2. Get familiar with ``pinMode(pin, OUTPUT)`` and ``digitalWrite(pin, OUTPUT)``
+3. Write for loop and switch statement
 
 ### How to build the project
 
