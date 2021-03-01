@@ -26,3 +26,4 @@ The jumper wire should be linked to the smaller leg (negative side)
 
 ### The Result
 
+![Final Product](screenshots/BinaryLEDs_video.mp4)
