@@ -27,3 +27,8 @@ The jumper wire should be linked to the smaller leg (negative side)
 
 ### The Result
 
+Link to the demo:
+
+https://user-images.githubusercontent.com/34996954/109561859-b6373600-7aab-11eb-8ce5-5efcd72e9dec.mp4
+
+
