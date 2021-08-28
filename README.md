@@ -9,8 +9,10 @@ A bunch of little quick projects I did to learn Arduino
 
 ## Projects
 
-- [x] Project #1: Binary LEDs
-- [ ] Project #2: Morse Code
-- [ ] Project #3: 7 Segment
+- [X] Binary LEDs
+- [X] Simon Says
+- [ ] Morse Code
+- [ ] 7 Segment
+- [ ] Pong with MAX7219 LED Dot Matrix
 
 ## Ressources
